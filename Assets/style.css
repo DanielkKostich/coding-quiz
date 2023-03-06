@@ -1,4 +1,5 @@
 * {
+    display: grid;
     width:fit-content;
     background-color: rgb(203, 199, 199);
 }
@@ -25,32 +26,18 @@
 #quiz p2{
     background-color: rgb(149, 180, 238);
 }
-.checkAnswers{
-    width: 100%;
-}
+
+
 
 .questions{
     color: rgb(132, 0, 255);
     background-color: rgb(255, 251, 0);
+    justify-self: center;
 
 }
 
-#A{
-    margin-left: 10px;
-    display: block;
+#begin{
+position: relative; justify-self: center;
+margin: 20px;
 }
 
-#B{
-    margin-left: 10px;
-    display: block;
-}
-
-#C{
-    margin-left: 10px;
-    display: block;
-}
-
-#D{
-    margin-left: 10px;
-    display: block;
-}
