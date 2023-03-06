@@ -1,0 +1,59 @@
+Inside which HTML element do we put the JavaScript?
+js, scripting, javascript, (script)
+
+How do you write "Hello World" in an alert box?
+
+msg("Hello World");
+msgBox("Hello World");
+alertBox("Hello World");
+alert("Hello World"); !!!
+
+javascript is the same as java 
+true, (false)
+
+What will the following code return: Boolean(10 > 9)
+NaN, false, (true)
+
+
+Is JavaScript case-sensitive?
+no, (yes)
+
+
+How to write an IF statement in JavaScript?
+
+if i == 5 then
+if i = 5 then
+if (i == 5)    Correct answer  
+if i = 5
+
+
+How to write an IF statement for executing some code if "i" is NOT equal to 5?
+
+if (i <> 5)
+if (i != 5)    Correct answer  
+if i <> 5
+if i =! 5 then
+
+
+How can you add a comment in a JavaScript?
+
+<!--This is a comment-->
+'This is a comment
+//This is a comment    Correct answer  
+
+
+How can you detect the client's browser name?
+
+navigator.appName    Correct answer  
+client.navName
+browser.name
+
+
+Which event occurs when the user clicks on an HTML element?
+
+onmouseover
+onmouseclick
+onclick    Correct answer  
+onchange
+
+
