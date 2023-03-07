@@ -60,7 +60,7 @@ function loadQuestion() {
 
         for (var i = 0; i < questions.length; i++) {
             document.getElementById("ans1").innerHTML = answers[randomQ][1];
-            document.addEventListener("click",check())
+            //document.addEventListener("click",check())
             for (var i = 0; i < questions.length; i++) {
                 document.getElementById("ans2").innerHTML = answers[randomQ][2];
 
@@ -83,16 +83,16 @@ function loadQuestion() {
 
 
 
-function check() {
-var answers = 
-for (var i = 0; i < questions.length; i++){document.getElementById(answers).checked;
-}
-    if (randomQ == 0) {
-        if(){
+//function check() {
+//var answers = 
+//for (var i = 0; i < questions.length; i++){document.getElementById(answers).checked;
+//}
+    //if (randomQ == 0) {
+       // if(){
 
-        }
-     }
-}
+       // }
+    // }
+//}
 
 var startEl = $("#begin")
 
